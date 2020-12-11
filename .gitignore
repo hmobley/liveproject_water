@@ -1,0 +1,24 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+*.zip
+*.npy
+*.mp4
+*.mov
+*.docx
+*.pdf
+*.mpeg
+*ffmpeg
+*.7z
+*.hdr
+*.zip
+*image*
+*.ipynb_checkpoints/
+weights/
+solutions/milestone1
+solutions/milestone2
+solutions/milestone4
+Milestone1.ipynb
+Part5_Optimizing_orig.ipynb
+Part_1_GettingStarted_orig.ipynb
