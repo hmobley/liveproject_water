@@ -16,9 +16,7 @@ __pycache__/
 *image*
 *.ipynb_checkpoints/
 weights/
-solutions/milestone1
-solutions/milestone2
-solutions/milestone4
+solutions/
 Milestone1.ipynb
 Part5_Optimizing_orig.ipynb
 Part_1_GettingStarted_orig.ipynb
